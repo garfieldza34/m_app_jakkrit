@@ -21,7 +21,7 @@
         
         <ion-tab-button tab="tab4" href="/tabs/tab4">
           <ion-icon :icon="home" />
-          <ion-label>Home</ion-label>
+          <ion-label>Tab 4</ion-label>
         </ion-tab-button>
 
       </ion-tab-bar>
